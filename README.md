@@ -27,8 +27,18 @@ An interactive **Power BI Dashboard** that visualizes gym performance metrics â€
 ### ðŸ“¸ Dashboard Preview
 
 <p align="center">
-  <img src="https://github.com/TanayKedar/Gym_Analysis_Dashboard_PowerBI_Project/blob/main/MergedPowerbisc.pdf" width="700" alt="Power BI Gym Analysis Dashboard">
+  <img src="[https://github.com/TanayKedar/Gym_Analysis_Dashboard_PowerBI_Project/blob/main/MergedPowerbisc.pdf](https://github.com/TanayKedar/Gym_Analysis_Dashboard_PowerBI_Project/blob/main/powerbiimg1.png)" width="700" alt="Power BI Gym Analysis Dashboard">
 </p>
+<p align="center">
+  <img src="https://github.com/TanayKedar/Gym_Analysis_Dashboard_PowerBI_Project/blob/main/powerbiimg2.png" width="700" alt="Power BI Gym Analysis Dashboard">
+</p>
+<p align="center">
+  <img src="https://github.com/TanayKedar/Gym_Analysis_Dashboard_PowerBI_Project/blob/main/powerbiimg3.png" width="700" alt="Power BI Gym Analysis Dashboard">
+</p>
+<p align="center">
+  <img src="https://github.com/TanayKedar/Gym_Analysis_Dashboard_PowerBI_Project/blob/main/powerbiimg4.png" width="700" alt="Power BI Gym Analysis Dashboard">
+</p>
+****
 
 ---
 
